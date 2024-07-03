@@ -77,7 +77,7 @@ localhost:4444/auth/login
 
 
 {
-    "email": "jon@gmail.com",
+    "email": "jn@gmail.com",
     "password": "test",
     "type": "recruiter"
 }
